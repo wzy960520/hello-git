@@ -1,2 +1,2 @@
 print('hello gits')
-num = 1
+num = 2
